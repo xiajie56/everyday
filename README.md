@@ -1,10 +1,10 @@
-# everyday
+# EveryDay
 
 #### [Demo地址(手机体验更佳，使用Chrome请切换成手机模拟)](https://xiajie56.github.io/everyday/index.html)
 
 > 每日一文
-> 使用 vue、pug、vuex、axios开发的每日一文
-> API:<https://github.com/jokermonn/-Api/blob/master/OneArticle.md>
+ 使用 vue、pug、vuex、axios开发的每日一文
+ API:<https://github.com/jokermonn/-Api/blob/master/OneArticle.md>
 
 启动后将本程序clone到本地
 
